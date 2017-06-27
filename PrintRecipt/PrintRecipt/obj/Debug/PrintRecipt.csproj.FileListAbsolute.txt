@@ -1,0 +1,29 @@
+c:\users\yazad\documents\visual studio 2015\Projects\PrintRecipt\PrintRecipt\bin\Debug\PrintRecipt.exe.config
+C:\Users\yazad\documents\visual studio 2015\Projects\PrintRecipt\PrintRecipt\bin\Debug\PrintRecipt.exe
+C:\Users\yazad\documents\visual studio 2015\Projects\PrintRecipt\PrintRecipt\bin\Debug\PrintRecipt.pdb
+C:\Users\yazad\documents\visual studio 2015\Projects\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.Properties.Resources.resources
+C:\Users\yazad\documents\visual studio 2015\Projects\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.csproj.GenerateResource.Cache
+C:\Users\yazad\documents\visual studio 2015\Projects\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.exe
+C:\Users\yazad\documents\visual studio 2015\Projects\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.pdb
+C:\Users\yazad\documents\visual studio 2015\Projects\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.Form1.resources
+C:\Users\yazad\Documents\Visual Studio 2015\Projects\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.csprojResolveAssemblyReference.cache
+C:\Users\yazad\Documents\Visual Studio 2015\Projects\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.print.resources
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\PrintRecipt.exe.config
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.exe
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.pdb
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\PrintRecipt.exe
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\PrintRecipt.pdb
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.csprojResolveAssemblyReference.cache
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.Form1.resources
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.print.resources
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.Properties.Resources.resources
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\obj\Debug\PrintRecipt.csproj.GenerateResource.Cache
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\PdfSharp.dll
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\Shreeji123\Desktop\PrintRecipt-20170325T162319Z-001\PrintRecipt\PrintRecipt\bin\Debug\de\PdfSharp.resources.dll
